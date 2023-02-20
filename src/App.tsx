@@ -4,7 +4,6 @@ import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
 import LandingPage from "./pages/LandingPage";
 import HomePage from "./pages/HomePage";
 import { default as authConfig } from "./config.json";
-
 import './App.css';
 
 function App() {
@@ -30,3 +29,4 @@ function AppRouter() {
   );
 }
 export default App;
+
