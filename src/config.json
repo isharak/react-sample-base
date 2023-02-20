@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://api.asgardeo.io/t/gobila",
+    "clientID": "cOLpRuqSUoTeAiA13QRz5VlpwDwa",
+    "scope": [
+        "openid",
+        "profile"
+    ],
+    "signInRedirectURL": "https://localhost:3000/sample",
+    "signOutRedirectURL": "https://localhost:3000"
+}
